@@ -1,0 +1,69 @@
+{
+  "id": "2aa1c2a9-b1e6-403f-91bd-3f2880dc1201",
+  "title": "mysite",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "name": "mysite",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true
+      },
+      "created": 1746600566,
+      "updated": 1746600566,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "custom-hax-wisuda-theme",
+      "path": "./custom/build/custom.es6.js",
+      "name": "CustomHaxWisudaTheme"
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "10.0.2",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-8eda68a1-7a43-4613-9dbe-c83dfce65d29",
+      "indent": 0,
+      "location": "pages/item-8eda68a1-7a43-4613-9dbe-c83dfce65d29/index.html",
+      "slug": "welcome",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome to mysite",
+      "description": "",
+      "metadata": {
+        "created": 1746600565,
+        "updated": 1746600565
+      }
+    },
+    {
+      "id": "item-c46b90dc-b963-44ce-8334-35544934daf0",
+      "indent": 0,
+      "location": "pages/item-c46b90dc-b963-44ce-8334-35544934daf0/index.html",
+      "slug": "asdads",
+      "order": 0,
+      "parent": null,
+      "title": "asdads",
+      "description": "",
+      "metadata": {
+        "created": 1746601411,
+        "updated": 1746601411,
+        "images": [],
+        "videos": []
+      }
+    }
+  ]
+}

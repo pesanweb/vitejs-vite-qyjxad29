@@ -1,0 +1,14 @@
+{
+  "custom-hax-wisuda-theme": "./custom/build/custom.es6.js",
+  "site-top-menu": "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-top-menu.js",
+  "site-title": "@haxtheweb/haxcms-elements/lib/ui-components/site/site-title.js",
+  "site-breadcrumb": "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-breadcrumb.js",
+  "grid-plate": "@haxtheweb/haxcms-elements/lib/ui-components/layout/grid-plate.js",
+  "site-menu-button": "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-menu-button.js",
+  "site-active-title": "@haxtheweb/haxcms-elements/lib/ui-components/site/site-active-title.js",
+  "site-children-block": "@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-children-block.js",
+  "site-rss-button": "@haxtheweb/haxcms-elements/lib/ui-components/site/site-rss-button.js",
+  "site-print-button": "@haxtheweb/haxcms-elements/lib/ui-components/site/site-print-button.js",
+  "site-footer": "@haxtheweb/haxcms-elements/lib/ui-components/site/site-footer.js",
+  "scroll-button": "@haxtheweb/haxcms-elements/lib/ui-components/navigation/scroll-button.js"
+}

@@ -1,0 +1,4 @@
+import{css as m,html as r}from"@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";import{PolarisFlexTheme as u}from"@haxtheweb/polaris-theme/lib/polaris-flex-theme.js";import"@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-children-block.js";var o=Object.freeze,d=Object.defineProperty,e=(t,p)=>o(d(t,"raw",{value:o(t.slice())}));/**
+* Copyright 2025 pesanweb
+* @license Apache-2.0, see License.md for full text.
+*/var n,s,a,c,l;class i extends u{static get styles(){return[super.styles,m(n||(n=e(["\n        :host {\n          display: block;\n        }\n      "])))]}renderHeaderSlot(){return r(s||(s=e([""])))}renderFooterContactInformation(){return r(a||(a=e([""])))}renderFooterSecondarySlot(){return r(c||(c=e([""])))}renderFooterPrimarySlot(){return r(l||(l=e([""])))}static get tag(){return"custom-hax-wisuda-theme"}constructor(){super()}}customElements.define(i.tag,i);
