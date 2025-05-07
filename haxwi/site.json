@@ -1,0 +1,53 @@
+{
+  "id": "c8f1eea3-4fc0-4184-9ce3-fff316bdfdd2",
+  "title": "haxwi",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "name": "haxwi",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true
+      },
+      "created": 1746603830,
+      "updated": 1746603830,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "custom-haxwi-theme",
+      "path": "./custom/build/custom.es6.js",
+      "name": "CustomHaxwiTheme"
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "10.0.2",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-69f01c49-cfa9-4d6e-a065-e1c2d7bdc377",
+      "indent": 0,
+      "location": "pages/item-69f01c49-cfa9-4d6e-a065-e1c2d7bdc377/index.html",
+      "slug": "welcome",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome to haxwi",
+      "description": "",
+      "metadata": {
+        "created": 1746603807,
+        "updated": 1746603807
+      }
+    }
+  ]
+}
